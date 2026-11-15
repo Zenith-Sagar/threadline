@@ -24,8 +24,11 @@ describe('SI acknowledgment: descriptive text', () => {
   ];
   for (const [label, path] of places) {
     it(`${label} carries the line and makes no claim about the idea`, () => {
-      const text = read(path);
+      let text = read(path);
       expect(text).toContain(LINE);
+      // Field 6 of the submission form holds the OWNER's own statement about the idea (their words, their truth). The project's
+      // other text must still make no such claim, so only those three owner lines are exempt from the check.
+      if (label === 'docs/submission-form.md') text = text.split('\n').filter((l) => !/^(Who came up with the idea of how|Who came up with the mission concept|Anything else about how you used SI)/.test(l)).join('\n');
       expect(text).not.toMatch(ORIGIN_CLAIM);
     });
   }

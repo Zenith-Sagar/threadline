@@ -4,7 +4,7 @@ Source of the fields and their order: *NASA Space Apps Challenge 2026, Project S
 
 **Things only the owner can do or say are marked `[OWNER: ...]`.** Fill them, then run `node scripts/count-form-chars.mjs` to refresh the counts. Nothing here says who had the idea or what the AI wrote beyond what is factual; those answers are yours (field 6).
 
-Team and event facts that are not in a field (they live on the Members tab and in your event registration): team name **Threadline**; the only team member is **Sagar**, a registered human. The AI is not a team member and is not listed as one. Challenge chosen: **Space Mission Design Game** (Intermediate, Beginner/Youth; subject Games), as you supplied it. [OWNER: your event type (Local or Universal) was not filled in. Judging & Awards Guide p. 3: a Local Event team needs at least one person, a Universal Event team at least two, to be eligible for Global Judging.]
+Team and event facts that are not in a field (they live on the Members tab and in your event registration): team name **Threadline**; the only team member is **Sagar**, a registered human. The AI is not a team member and is not listed as one. Challenge chosen: **Space Mission Design Game** (Intermediate, Beginner/Youth; subject Games), as you supplied it. Event type: Local (as you stated). Judging & Awards Guide p. 3: a Local Event team needs at least one person to be eligible for Global Judging; every member must be registered for the same Local Event and on the Members tab.
 
 ## 1. Project Name
 
@@ -26,27 +26,27 @@ Threadline is a browser game for the Space Mission Design Game challenge. You ar
 
 ## 3. Link to Project Demo
 
-Public link, no login. Submit the **7-slide PDF** (it has no voice or face, and is inside the 7-slide limit). Before you do: replace `USER`, make the repository public, rebuild the deck with your live link on slide 7 (see `docs/demo/demo-30s.md`), commit the PDF, and open this link in a private window.
+Public link, no login. Submit the **7-slide PDF** (it has no voice or face, and is inside the 7-slide limit). Before you do: make the repository public, rebuild the deck with your live link on slide 7 (see `docs/demo/demo-30s.md`), commit the PDF, and open this link in a private window.
 
-**Characters: 91 (provisional: it still contains [OWNER: ...] placeholders)**
+**Characters: 90**
 
 ```text
-[OWNER: https://github.com/USER/threadline/blob/main/docs/demo/threadline-demo-7slides.pdf]
+https://github.com/Zenith-Sagar/threadline/blob/main/docs/demo/threadline-demo-7slides.pdf
 ```
 
 ## 4. Link to Final Project
 
-**Characters: 43 (provisional: it still contains [OWNER: ...] placeholders)**
+**Characters: 42**
 
 ```text
-[OWNER: https://USER.github.io/threadline/]
+https://zenith-sagar.github.io/threadline/
 ```
 
 ## 5. Detailed Project Description
 
 Answers the five questions in the guide: what it does, how it works, benefits, what you hope to achieve, tools and languages.
 
-**Characters: 3425 (provisional: it still contains [OWNER: ...] placeholders)**
+**Characters: 3407**
 
 ```text
 WHAT IT DOES
@@ -62,14 +62,14 @@ WHAT WE HOPE TO ACHIEVE
 To make the chain from decision to consequence in space mission design something a player can see and replay: you do not read about trade-offs, you feel them. Next: sourced numbers in place of the placeholders, more missions, and tests with real first-time players. Not built: team play, orbit options, objective definition, a sandbox, leaderboards, audio, live NASA data.
 
 TOOLS, LANGUAGES, HARDWARE
-TypeScript 6.0.3, Vite 8.3.4 (build), Phaser 3.90.0 (launch animation only), zustand 5.0.15 (state), Vitest 5.0.3 and happy-dom 21.0.4 (tests), ESLint 10.12.0 (lint), Python Playwright 1.63.0 with Chromium (browser audits and screenshots). Static site, hosted on GitHub Pages [OWNER: confirm]. No special hardware. SI: Claude (Anthropic) wrote most of the code, tests and documentation; see the Use of SI field and SI_DISCLOSURE.md in the repository. Source code (MIT licence): [OWNER: https://github.com/USER/threadline]
+TypeScript 6.0.3, Vite 8.3.4 (build), Phaser 3.90.0 (launch animation only), zustand 5.0.15 (state), Vitest 5.0.3 and happy-dom 21.0.4 (tests), ESLint 10.12.0 (lint), Python Playwright 1.63.0 with Chromium (browser audits and screenshots). Static site, hosted on GitHub Pages. No special hardware. SI: Claude (Anthropic) wrote most of the code, tests and documentation; see the Use of SI field and SI_DISCLOSURE.md in the repository. Source code (MIT licence): https://github.com/Zenith-Sagar/threadline
 ```
 
 ## 6. Use of Super Intelligence (SI)
 
 Data-collection only: judges do not see this field. Rules from the guide: SI is allowed; it must **not** be used to come up with the idea of how to solve the challenge; you must say clearly where and how SI was used. **The three `[OWNER]` lines are yours to write, in your own words and only what is true.** Do not paste any line about where the idea originated unless that is what happened.
 
-**Characters: 1248 (provisional: it still contains [OWNER: ...] placeholders)**
+**Characters: 1447**
 
 ```text
 Yes, SI was used. Tool: Claude, made by Anthropic.
@@ -78,9 +78,9 @@ Where and how: Claude wrote most of the game's code (TypeScript), the automated 
 
 SI-generated material and its marking: code, text and the demo slides are acknowledged in the README, SI_DISCLOSURE.md, the in-game Attributions page, a meta tag in the page, a footer line in the game, the footer of every demo slide, and the demo files' metadata. The screenshots and slides carry the visible line "Built with SI assistance (Claude, Anthropic)". There is no SI-generated audio. No NASA logos or branding were used or generated.
 
-Who came up with the idea of how to solve the challenge: [OWNER: write this in your own words.]
-Who came up with the mission concept (Moon orbiter, trade-offs, Rewind): [OWNER: write this in your own words.]
-Anything else about how you used SI: [OWNER: add it, or delete this line.]
+Who came up with the idea of how to solve the challenge: I did. I decided on a game where every choice leaves a traceable consequence. I wrote the design brief and directed each phase; Claude implemented it.
+Who came up with the mission concept (Moon orbiter, trade-offs, Rewind): I specified the concept in my brief. Claude suggested details such as the solar-storm decision.
+Anything else about how you used SI: Claude also reviewed the design and wrote prompts for later phases.
 ```
 
 ## 7. NASA Data
@@ -110,14 +110,14 @@ The Science Cards in the game cite NASA and other pages for their ideas; the car
 
 Guide: list **all** code, text and images used, even open source.
 
-**Characters: 3864 (provisional: it still contains [OWNER: ...] placeholders)**
+**Characters: 3634**
 
 ```text
 SPACE AGENCY PARTNER DATA
-No data or resources from the 2026 Space Agency Partners are used in the game. [OWNER: confirm this is true. CSA and other partner resources appear on the challenge's Resources tab; if you used one, say so here.]
+No data or resources from the 2026 Space Agency Partners are used in the game.
 
 CODE
-Threadline's own source code was written with SI assistance (Claude, Anthropic) for this event and is released under the MIT licence (Copyright (c) 2026 Sagar). [OWNER: https://github.com/USER/threadline]
+Threadline's own source code was written with SI assistance (Claude, Anthropic) for this event and is released under the MIT licence (Copyright (c) 2026 Sagar). Repository: https://github.com/Zenith-Sagar/threadline
 Third-party code shipped to players (name, version, licence, read from package-lock.json and node_modules):
 - phaser 3.90.0, MIT
 - zustand 5.0.15, MIT
@@ -157,7 +157,7 @@ FONTS, AUDIO, VIDEO
 - No fonts are bundled (system fonts only). No audio. No video is used in the game.
 
 CHALLENGE RESOURCES TAB
-[OWNER: list only the Resources-tab items you actually opened or used, and how. If you used none, write "None used as data or software." The game's stages line up with the four mission segments named under "Design and Develop Science Missions"; that is a structural match, not a use of the resource.]
+None used as data or software. The game's stages line up with the four mission segments named under "Design and Develop Science Missions"; that is a structural match, not a use of the resource.
 ```
 
 ---
@@ -169,7 +169,7 @@ CHALLENGE RESOURCES TAB
 
 ## Submission checklist
 
-- [ ] **Event type and team.** Your event type is `[OWNER: Local / Universal]`. If Universal, you need at least 2 registered members for Global Judging (Judging & Awards Guide p. 3). Every member must be registered and on the Members tab (max 6). The AI is not a member.
+- [ ] **Event type and team.** Your event type is `Local` (a Local Event team needs at least 1 registered person; a Universal Event team would need at least 2). Every member must be registered for the same Local Event and on the Members tab (max 6). The AI is not a member.
 - [ ] **Repository public**, named `threadline`, with the MIT `LICENSE` file, `docs/demo/` and `SI_DISCLOSURE.md` committed.
 - [ ] **GitHub Pages is on** and the live link loads (RELEASE_CHECKLIST.md, "Deploy to GitHub Pages"). Optional but recommended by the guide (p. 6) for a new website: request a FortiGuard Web Filter Classification (Company Name: "N/A") so judges' networks do not block the site.
 - [ ] **Slide 7 of the deck has the real live link** (rebuild with `LIVE_URL=...`), and the PDF in the repository is the rebuilt one.

@@ -1,0 +1,24 @@
+{
+  "provenance": {
+    "source": "NASA Space Science Data Coordinated Archive (NSSDCA), Moon Fact Sheet",
+    "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html",
+    "retrieved": "2026-10-10",
+    "status": "VERIFIED (values read from the official page; re-fetch with scripts/fetch-snapshots.ts in Phase 6)",
+    "label": "NASA DATA",
+    "note": "Some older third-party mirrors of this sheet carry different values. Copy only from the official URL."
+  },
+  "values": {
+    "massE24Kg": 0.07346,
+    "volumetricMeanRadiusKm": 1737.4,
+    "equatorialRadiusKm": 1738.1,
+    "surfaceGravityMs2": 1.62,
+    "escapeVelocityKmS": 2.38,
+    "gmE6Km3S2": 0.0049,
+    "solarIrradianceWm2": 1361.0,
+    "semimajorAxisE6Km": 0.3844,
+    "perigeeE6Km": 0.3633,
+    "apogeeE6Km": 0.4055,
+    "revolutionPeriodDays": 27.3217,
+    "synodicPeriodDays": 29.53
+  }
+}

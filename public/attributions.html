@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="color-scheme" content="dark" />
+  <meta name="description" content="Sources, licences and the SI (Super Intelligence) acknowledgment for Threadline. Built with SI assistance (Claude, Anthropic)." />
+  <meta name="si-disclosure" content="Built with SI assistance (Claude, Anthropic). Code, tests, documentation and demo slides were written with Claude. See SI_DISCLOSURE.md." />
+  <title>Attributions and sources - Threadline</title>
+  <style>
+    body { margin: 0; padding: 1.5rem; background: #0B1020; color: #E8ECF8; font: 1rem/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+    main { max-width: 46rem; margin: 0 auto; }
+    h1 { font-size: 1.75rem; } h2 { font-size: 1.2rem; margin-top: 2rem; }
+    a { color: #4DD8FF; } :focus-visible { outline: 3px solid #4DD8FF; outline-offset: 2px; }
+    .unverified { display: inline-block; padding: 0 .5rem; border: 1px dashed #FFB020; border-radius: 6px; color: #FFB020; font-size: .85rem; }
+    .todo { padding: .75rem 1rem; border: 2px dashed #FFB020; border-radius: 10px; }
+    li { margin-bottom: .5rem; } small { color: #A9B4D0; }
+    pre.licence { white-space: pre-wrap; overflow-wrap: anywhere; background: #141b33; padding: .75rem; border: 1px solid #7585bc; }
+    </style>
+</head>
+<body>
+  <main>
+    <p><a href="./">Back to the game</a></p>
+    <h1>Attributions and sources</h1>
+    <p>Threadline is an independent project created for the NASA Space Apps Challenge. It is not affiliated with or endorsed by NASA. No NASA logos or insignia are used.</p>
+
+    <h2>NASA data used by the game</h2>
+    <ul>
+      <li><a href="https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html">Moon Fact Sheet</a>, NASA Space Science Data Coordinated Archive. Source of the Moon's radius, gravity parameter and Earth-Moon distance used for the orbit numbers. Read 2026-10-10.</li>
+    </ul>
+
+    <h2>Sources behind the Science Cards</h2>
+    <p>Each card also lists its own sources. Every page was read on 2026-10-16. Where a card states something that could not be sourced, the card says so in an &ldquo;Unverified&rdquo; note.</p>
+    <ul>
+      <li><a href="https://ntrs.nasa.gov/api/citations/20120001911/downloads/20120001911.pdf">Control Algorithms Charge Batteries Faster (NASA Spinoff 2011)</a>, NASA Glenn Research Center.</li>
+      <li><a href="https://www.nasa.gov/wp-content/uploads/2023/05/3.-soa-power-2022.pdf">State-of-the-Art Small Spacecraft Technology: Power</a>, NASA Small Spacecraft Systems Virtual Institute.</li>
+      <li><a href="https://www.nasa.gov/wp-content/uploads/2011/08/583093main_earth_calling.pdf">Earth Calling (NASA educator guide)</a>, NASA.</li>
+      <li><a href="https://svs.gsfc.nasa.gov/31248">How Do Space Weather Effects &amp; Solar Storms Affect Earth?</a>, NASA Goddard Scientific Visualization Studio.</li>
+      <li><a href="https://science.nasa.gov/heliophysics/science-questions/how-does-solar-variability-affect-human-society-technological-systems-and-the-habitability-of-planets">How does solar variability affect human society, technological systems and the habitability of planets?</a>, NASA Science.</li>
+      <li><a href="https://lasp.colorado.edu/maven/2014/11/20/maven-status-update-nov-20-2014/">MAVEN Status Update: Nov. 20, 2014</a>, LASP, University of Colorado (a NASA mission).</li>
+      <li><a href="https://www.gao.gov/products/gao-01-1015r">Survey of NASA's Lessons Learned Process (GAO-01-1015R)</a>, U.S. Government Accountability Office.</li>
+      <li><a href="https://www.planetary.org/blogs/guest-blogs/2017/20170428-the-rocket-equation-part-1.html">Learn the rocket equation, part 1</a>, The Planetary Society (not a NASA source).</li>
+      <li><a href="https://www.popsci.com/science/safe-mode-space-telescope/">How &lsquo;safe mode&rsquo; protects space telescopes like Hubble and TESS</a>, Popular Science (not a NASA source).</li>
+    </ul>
+
+    <h2>Software</h2>
+    <ul>
+      <li>Phaser 3.90.0 (launch animation). Licence: MIT. Copyright (c) 2024 Richard Davey, Phaser Studio Inc. (read from <code>node_modules/phaser/package.json</code> and <code>LICENSE.md</code>; full text below).</li>
+      <li>zustand 5.0.15 (game state). Licence: MIT. Copyright (c) 2019 Paul Henschel (read from <code>node_modules/zustand/package.json</code> and <code>LICENSE</code>; full text below).</li>
+      <li>eventemitter3 5.0.4 (a runtime dependency of Phaser, installed with it). Licence: MIT. Copyright (c) 2014 Arnout Kazemier (read from <code>node_modules/eventemitter3/package.json</code> and <code>LICENSE</code>; full text below).</li>
+    </ul>
+
+    <h2>Fonts</h2>
+    <p>No font files are bundled. The game uses the fonts already on your device (the system UI font). If web fonts are added later, each will be listed here with its licence, marked <span class="unverified">UNVERIFIED</span> until checked.</p>
+
+    <h2 id="si-disclosure">Use of Super Intelligence (SI)</h2>
+    <p><strong>Built with SI assistance (Claude, Anthropic).</strong> The Space Apps rules allow SI tools and ask teams to say where and how they were used. Here is the factual part:</p>
+    <ul>
+      <li><strong>Code:</strong> most of Threadline&rsquo;s source code (TypeScript) was written by Claude, made by Anthropic, in prompted sessions with the project owner.</li>
+      <li><strong>Tests and checks:</strong> the automated tests and the browser audits were written the same way. The simulation, the checks and the Truth Ledger were verified by running them.</li>
+      <li><strong>Text:</strong> the in-game text, the documentation and the submission text were written with Claude.</li>
+      <li><strong>Images and slides:</strong> the screenshots and the demo slides were made from the game with SI-assisted code. They carry the visible line &ldquo;Built with SI assistance (Claude, Anthropic)&rdquo;.</li>
+      <li><strong>Audio:</strong> none. <strong>Data:</strong> the three NASA values come from the Moon Fact Sheet (above), not from SI. The invented &ldquo;GAME MODEL&rdquo; numbers are part of the SI-assisted code and are labelled as invented.</li>
+      <li><strong>NASA branding:</strong> none was used or generated.</li>
+    </ul>
+    <p>This page does not say who originated the idea or the mission concept. The team&rsquo;s own account of that is in its submission. The same acknowledgment is in the project&rsquo;s README, in <code>SI_DISCLOSURE.md</code>, in a meta tag of every page, in the game&rsquo;s footer and in the demo files.</p>
+
+    <p><small>This page is a static file. Its source list is checked against the game's Science Cards by a test, so the two cannot drift apart.</small></p>
+  
+    <h2 id="licences">Software licences (full text)</h2>
+    <p>These libraries are shipped inside the game (Phaser, zustand, and eventemitter3, which Phaser depends on). Their licence notices are reproduced here as the MIT licence requires. Development tools (TypeScript, Vite, Vitest, ESLint, happy-dom, and Playwright for Python in the browser audits) are not shipped to players.</p>
+    <details><summary>Phaser (MIT)</summary><pre class="licence">The MIT License (MIT)
+
+Copyright (c) 2024 Richard Davey, Phaser Studio Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the &quot;Software&quot;), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</pre></details>
+    <details><summary>zustand (MIT)</summary><pre class="licence">MIT License
+
+Copyright (c) 2019 Paul Henschel
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the &quot;Software&quot;), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.</pre></details>
+    <details><summary>eventemitter3 (MIT)</summary><pre class="licence">The MIT License (MIT)
+
+Copyright (c) 2014 Arnout Kazemier
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the &quot;Software&quot;), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.</pre></details>
+</main>
+</body>
+</html>

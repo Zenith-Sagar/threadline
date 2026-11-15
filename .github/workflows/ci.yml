@@ -1,0 +1,55 @@
+# CI + deploy. Every push and pull request runs `npm run check` and a production build.
+# Pushes to main also publish to GitHub Pages (needs: Settings > Pages > Source: "GitHub Actions").
+# Pages action versions (configure-pages v5, upload-pages-artifact v4, deploy-pages v4) match docs.github.com, read 2026-10-19.
+# checkout@v4, setup-node@v4 and Node 22 are UNVERIFIED (from memory): check them and pin (see docs/truth-ledger.md DP6).
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run check
+
+  build:
+    needs: check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run typecheck && npx vite build --base=/${{ github.event.repository.name }}/ && node scripts/postbuild.mjs
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

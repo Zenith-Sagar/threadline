@@ -1,0 +1,110 @@
+1
+00:00:00,300 --> 00:00:03,800
+Space missions are chains of trade-offs.
+
+2
+00:00:04,000 --> 00:00:07,200
+In a textbook you cannot see the chain.
+
+3
+00:00:07,500 --> 00:00:09,800
+In Threadline, you can.
+
+4
+00:00:10,300 --> 00:00:14,000
+You are Mission Director
+for a Moon orbiter.
+
+5
+00:00:14,300 --> 00:00:19,300
+Three instruments, one launcher,
+a power system, and a budget.
+
+6
+00:00:19,600 --> 00:00:24,500
+Variants change one number,
+so you can replay.
+
+7
+00:00:25,300 --> 00:00:30,500
+Every choice draws a thread
+to the meters it moves:
+
+8
+00:00:30,700 --> 00:00:36,000
+weight, power, cost, fuel,
+data and science.
+
+9
+00:00:36,500 --> 00:00:42,500
+Each thread has an icon and a pattern,
+not just a colour,
+
+10
+00:00:42,800 --> 00:00:49,700
+and every change is also
+described in words.
+
+11
+00:00:50,300 --> 00:00:53,500
+Launch.
+
+12
+00:00:54,000 --> 00:00:58,500
+The mission flies orbit by orbit.
+
+13
+00:01:05,300 --> 00:01:08,500
+A solar storm arrives.
+
+14
+00:01:08,800 --> 00:01:14,300
+One decision, three answers,
+each with its cost and its risk.
+
+15
+00:01:14,600 --> 00:01:18,800
+There is no recommended answer.
+
+16
+00:01:19,000 --> 00:01:24,800
+The best one depends on
+the design you built.
+
+17
+00:01:25,300 --> 00:01:29,500
+The outcome traces back
+to your choices.
+
+18
+00:01:29,800 --> 00:01:36,000
+A Science Card explains the idea
+and shows its sources.
+
+19
+00:01:36,500 --> 00:01:43,500
+What the game simplifies
+is said plainly.
+
+20
+00:01:45,200 --> 00:01:48,800
+Rewind: same seed, same luck,
+only my decision changes.
+
+21
+00:01:49,000 --> 00:01:51,500
+The diff shows what it did.
+
+22
+00:01:51,800 --> 00:01:54,800
+Then share a link to
+challenge a friend.
+
+23
+00:01:55,200 --> 00:01:56,500
+Try it.
+
+24
+00:01:56,800 --> 00:01:59,800
+Independent project,
+not affiliated with NASA.

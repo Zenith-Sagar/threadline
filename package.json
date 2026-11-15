@@ -1,0 +1,39 @@
+{
+  "name": "threadline",
+  "version": "1.0.1",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "description": "Threadline - a Moon-mission design game. Independent project created for the NASA Space Apps Challenge. Not affiliated with or endorsed by NASA.",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run typecheck && vite build && node scripts/postbuild.mjs",
+    "preview": "vite preview",
+    "typecheck": "tsc -p tsconfig.json --noEmit && tsc -p tsconfig.sim.json --noEmit",
+    "lint": "eslint .",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "check": "npm run typecheck && npm run lint && npm run test",
+    "sweep": "SWEEP=1 vitest run tests/sim/balance.test.ts",
+    "build:pages": "npm run typecheck && vite build --base=/threadline/ && node scripts/postbuild.mjs",
+    "preview:pages": "vite preview --base=/threadline/ --port 4173",
+    "audit:all": "node scripts/audit-all.mjs",
+    "package:offline": "node scripts/package-offline.mjs",
+    "screenshots": "python3 scripts/screenshots.py"
+  },
+  "dependencies": {
+    "phaser": "3.90.0",
+    "zustand": "5.0.15"
+  },
+  "devDependencies": {
+    "@eslint/js": "10.0.1",
+    "@types/node": "26.6.5",
+    "eslint": "10.12.0",
+    "globals": "17.13.0",
+    "happy-dom": "21.0.4",
+    "typescript": "6.0.3",
+    "typescript-eslint": "8.71.1",
+    "vite": "8.3.4",
+    "vitest": "5.0.3"
+  }
+}

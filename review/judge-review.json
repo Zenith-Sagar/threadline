@@ -1,0 +1,2822 @@
+[
+ {
+  "variant": "standard",
+  "width": 1280,
+  "screens": [
+   {
+    "label": "title",
+    "t": 0.6,
+    "h1": "Threadline",
+    "words": 91,
+    "read_s": 27,
+    "grade": 8.6,
+    "long_sentences": [
+     "You can rewind and change that one choice to see what happens.Read the mission brief.Build your spacecraft in the Design Bay.Launch, and see how it goes.Rewind, change one decision, and compare.About 10 minutes."
+    ],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief",
+    "t": 1.1,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 289,
+    "read_s": 87,
+    "grade": 13.2,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief-variant",
+    "t": 1.5,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 289,
+    "read_s": 87,
+    "grade": 13.2,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-first-sight",
+    "t": 2.3,
+    "h1": "Design Bay",
+    "words": 453,
+    "read_s": 136,
+    "grade": 20.4,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (0 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 8 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 6 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 12 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-built",
+    "t": 3.7,
+    "h1": "Design Bay",
+    "words": 492,
+    "read_s": 148,
+    "grade": 18.0,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 8 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 6 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 12 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "propellant",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "launch",
+    "t": 5.3,
+    "h1": "Launch: Medium launcher",
+    "words": 19,
+    "read_s": 6,
+    "grade": 7.4,
+    "long_sentences": [],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "storm-decision",
+    "t": 7.2,
+    "h1": "Mission Control",
+    "words": 328,
+    "read_s": 98,
+    "grade": 17.1,
+    "long_sentences": [
+     "ThreadlineHow to playMission ControlPaused before orbit 5: a solar storm is arriving.PauseSkip to the storm decisionSolar storm warning: orbit 5A solar storm reaches the Moon on orbit 5 and lasts 3 orbits.",
+     "GAME MODELRide it outCostsGives up no science while the storm lasts.RisksEach running instrument (Imaging camera, Spectrometer, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 101 W while the array makes about 100 W.",
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.GAME MODELSIMPLIFIED PHYSICSChoose: Ride it outSwitch off the SpectrometerCostsGives up 18 science points on each of the 3 storm orbits (54 in all).RisksEach running instrument (Imaging camera, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 89 W while the array makes about 100 W."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "outcome",
+    "t": 9.0,
+    "h1": "Partial success: the instruments were off for some orbits",
+    "words": 457,
+    "read_s": 137,
+    "grade": 17.6,
+    "long_sentences": [
+     "ThreadlineHow to playPartial success: the instruments were off for some orbitsStep 5 of 5Read the first cause chain: it traces what happened back to one of your choices.Got itSkip the guideWhat this outcome means: 40% to 99% of the science was collected, with no rescue from your response.Best result on this seed: Partial.",
+     "You chose: Ride it out.60% Science collected GAME MODELOnly 60% of the science potential was collected: safe mode on orbits 6, 7, 8; Spectrometer damaged by radiation.64% Data returned GAME MODEL162 of 252 Mb that the instruments could have produced came home.70% Spacecraft health GAME MODELHealth 70: 3 orbits in safe mode, 1 instrument lost to radiation.100% Budget margin GAME MODEL$133M spent of a $175M budget.",
+     "SIMPLIFIED PHYSICSWhy it happenedYour choice: SpectrometerEffect: 12 W of powerEffect: the storm cuts the solar array to 50%Result: Safe mode on orbit 6 and 2 moreSpectrometer draws 12 W."
+    ],
+    "jargon_untooltipped": [
+     "GAME MODEL",
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "seed",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "Your choice:",
+     "Effect:",
+     "Effect:",
+     "Result:"
+    ],
+    "errors": []
+   },
+   {
+    "label": "rewind-design",
+    "t": 9.8,
+    "h1": "Design Bay",
+    "words": 660,
+    "read_s": 198,
+    "grade": 14.1,
+    "long_sentences": [
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.Switch off the Spectrometer Gives up 18 science points on each of the 3 storm orbits (54 in all).",
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.Enter safe mode early Gives up 42 science points on each of the 3 storm orbits (126 in all).",
+     "Forecast: safe mode on orbit 8, which costs more science.Instruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "diff",
+    "t": 12.4,
+    "h1": "Compared with your last flight",
+    "words": 159,
+    "read_s": 48,
+    "grade": 24.7,
+    "long_sentences": [
+     "Only your decisions changed.What you changedBattery: 150 Wh to 300 WhFuel: 87 kg to 90 kgMore than one decision changed, so the cause of any difference is mixed.What happened differentlyOutcomePartial to Partial SameScience collected60% to 58% (-2 points) GAME MODELData returned64% to 64% (+0 points) GAME MODELSpacecraft health70% to 70% (+0 points) GAME MODELBudget margin100% to 100% (+0 points) GAME MODELProblems that went awaySafe mode on orbit 6Safe mode on orbit 7New problemsThermal infrared radiometer damaged by radiation on orbit 7Problems that stayedSolar storm on orbit 5Spectrometer damaged by radiation on orbit 5Safe mode on orbit 8Cost$133M to $136MGAME MODELWeight at launch251 kg to 260 kgGAME MODELFuel margin16% to 16%SIMPLIFIED PHYSICSUnverified placeholderPartial: 40% to 99% of the science was collected, with no rescue from your response.Change another decisionSee why this flight went this wayStart overCompared with your last flight screen."
+    ],
+    "jargon_untooltipped": [
+     "Wh",
+     "radiation",
+     "safe mode",
+     "seed"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   }
+  ],
+  "notes": []
+ },
+ {
+  "variant": "standard",
+  "width": 820,
+  "screens": [
+   {
+    "label": "title",
+    "t": 0.6,
+    "h1": "Threadline",
+    "words": 91,
+    "read_s": 27,
+    "grade": 8.6,
+    "long_sentences": [
+     "You can rewind and change that one choice to see what happens.Read the mission brief.Build your spacecraft in the Design Bay.Launch, and see how it goes.Rewind, change one decision, and compare.About 10 minutes."
+    ],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief",
+    "t": 1.1,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 289,
+    "read_s": 87,
+    "grade": 13.2,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief-variant",
+    "t": 1.4,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 289,
+    "read_s": 87,
+    "grade": 13.2,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-first-sight",
+    "t": 2.2,
+    "h1": "Design Bay",
+    "words": 453,
+    "read_s": 136,
+    "grade": 20.4,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (0 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 8 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 6 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 12 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-built",
+    "t": 3.6,
+    "h1": "Design Bay",
+    "words": 492,
+    "read_s": 148,
+    "grade": 18.0,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 8 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 6 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 12 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "propellant",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "launch",
+    "t": 4.8,
+    "h1": "Launch: Medium launcher",
+    "words": 19,
+    "read_s": 6,
+    "grade": 7.4,
+    "long_sentences": [],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "storm-decision",
+    "t": 6.4,
+    "h1": "Mission Control",
+    "words": 328,
+    "read_s": 98,
+    "grade": 17.1,
+    "long_sentences": [
+     "ThreadlineHow to playMission ControlPaused before orbit 5: a solar storm is arriving.PauseSkip to the storm decisionSolar storm warning: orbit 5A solar storm reaches the Moon on orbit 5 and lasts 3 orbits.",
+     "GAME MODELRide it outCostsGives up no science while the storm lasts.RisksEach running instrument (Imaging camera, Spectrometer, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 101 W while the array makes about 100 W.",
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.GAME MODELSIMPLIFIED PHYSICSChoose: Ride it outSwitch off the SpectrometerCostsGives up 18 science points on each of the 3 storm orbits (54 in all).RisksEach running instrument (Imaging camera, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 89 W while the array makes about 100 W."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "outcome",
+    "t": 8.2,
+    "h1": "Partial success: the instruments were off for some orbits",
+    "words": 457,
+    "read_s": 137,
+    "grade": 17.6,
+    "long_sentences": [
+     "ThreadlineHow to playPartial success: the instruments were off for some orbitsStep 5 of 5Read the first cause chain: it traces what happened back to one of your choices.Got itSkip the guideWhat this outcome means: 40% to 99% of the science was collected, with no rescue from your response.Best result on this seed: Partial.",
+     "You chose: Ride it out.60% Science collected GAME MODELOnly 60% of the science potential was collected: safe mode on orbits 6, 7, 8; Spectrometer damaged by radiation.64% Data returned GAME MODEL162 of 252 Mb that the instruments could have produced came home.70% Spacecraft health GAME MODELHealth 70: 3 orbits in safe mode, 1 instrument lost to radiation.100% Budget margin GAME MODEL$133M spent of a $175M budget.",
+     "SIMPLIFIED PHYSICSWhy it happenedYour choice: SpectrometerEffect: 12 W of powerEffect: the storm cuts the solar array to 50%Result: Safe mode on orbit 6 and 2 moreSpectrometer draws 12 W."
+    ],
+    "jargon_untooltipped": [
+     "GAME MODEL",
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "seed",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "Your choice:",
+     "Effect:",
+     "Effect:",
+     "Result:"
+    ],
+    "errors": []
+   },
+   {
+    "label": "rewind-design",
+    "t": 8.9,
+    "h1": "Design Bay",
+    "words": 660,
+    "read_s": 198,
+    "grade": 14.1,
+    "long_sentences": [
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.Switch off the Spectrometer Gives up 18 science points on each of the 3 storm orbits (54 in all).",
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.Enter safe mode early Gives up 42 science points on each of the 3 storm orbits (126 in all).",
+     "Forecast: safe mode on orbit 8, which costs more science.Instruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "diff",
+    "t": 11.4,
+    "h1": "Compared with your last flight",
+    "words": 159,
+    "read_s": 48,
+    "grade": 24.7,
+    "long_sentences": [
+     "Only your decisions changed.What you changedBattery: 150 Wh to 300 WhFuel: 87 kg to 90 kgMore than one decision changed, so the cause of any difference is mixed.What happened differentlyOutcomePartial to Partial SameScience collected60% to 58% (-2 points) GAME MODELData returned64% to 64% (+0 points) GAME MODELSpacecraft health70% to 70% (+0 points) GAME MODELBudget margin100% to 100% (+0 points) GAME MODELProblems that went awaySafe mode on orbit 6Safe mode on orbit 7New problemsThermal infrared radiometer damaged by radiation on orbit 7Problems that stayedSolar storm on orbit 5Spectrometer damaged by radiation on orbit 5Safe mode on orbit 8Cost$133M to $136MGAME MODELWeight at launch251 kg to 260 kgGAME MODELFuel margin16% to 16%SIMPLIFIED PHYSICSUnverified placeholderPartial: 40% to 99% of the science was collected, with no rescue from your response.Change another decisionSee why this flight went this wayStart overCompared with your last flight screen."
+    ],
+    "jargon_untooltipped": [
+     "Wh",
+     "radiation",
+     "safe mode",
+     "seed"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   }
+  ],
+  "notes": []
+ },
+ {
+  "variant": "standard",
+  "width": 390,
+  "screens": [
+   {
+    "label": "title",
+    "t": 0.6,
+    "h1": "Threadline",
+    "words": 91,
+    "read_s": 27,
+    "grade": 8.6,
+    "long_sentences": [
+     "You can rewind and change that one choice to see what happens.Read the mission brief.Build your spacecraft in the Design Bay.Launch, and see how it goes.Rewind, change one decision, and compare.About 10 minutes."
+    ],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief",
+    "t": 1.0,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 289,
+    "read_s": 87,
+    "grade": 13.2,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief-variant",
+    "t": 1.4,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 289,
+    "read_s": 87,
+    "grade": 13.2,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-first-sight",
+    "t": 2.0,
+    "h1": "Design Bay",
+    "words": 453,
+    "read_s": 136,
+    "grade": 20.4,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (0 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 8 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 6 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 12 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "230 kg of the 270 kg this launcher can l",
+     "Stays powered through all 14 orbits. 55%",
+     "Pick instruments to see how much data th",
+     "+35% more than the mission needs"
+    ],
+    "errors": []
+   },
+   {
+    "label": "design-built",
+    "t": 3.4,
+    "h1": "Design Bay",
+    "words": 492,
+    "read_s": 148,
+    "grade": 18.0,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 8 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 6 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 12 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "propellant",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "251 kg of the 380 kg this launcher can l",
+     "Stays powered through all 14 orbits. 35%",
+     "Instruments make 18 Mb per orbit and the",
+     "+16% more than the mission needs"
+    ],
+    "errors": []
+   },
+   {
+    "label": "launch",
+    "t": 4.4,
+    "h1": "Launch: Medium launcher",
+    "words": 19,
+    "read_s": 6,
+    "grade": 7.4,
+    "long_sentences": [],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "storm-decision",
+    "t": 6.1,
+    "h1": "Mission Control",
+    "words": 328,
+    "read_s": 98,
+    "grade": 17.1,
+    "long_sentences": [
+     "ThreadlineHow to playMission ControlPaused before orbit 5: a solar storm is arriving.PauseSkip to the storm decisionSolar storm warning: orbit 5A solar storm reaches the Moon on orbit 5 and lasts 3 orbits.",
+     "GAME MODELRide it outCostsGives up no science while the storm lasts.RisksEach running instrument (Imaging camera, Spectrometer, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 101 W while the array makes about 100 W.",
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.GAME MODELSIMPLIFIED PHYSICSChoose: Ride it outSwitch off the SpectrometerCostsGives up 18 science points on each of the 3 storm orbits (54 in all).RisksEach running instrument (Imaging camera, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 89 W while the array makes about 100 W."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "outcome",
+    "t": 7.9,
+    "h1": "Partial success: the instruments were off for some orbits",
+    "words": 457,
+    "read_s": 137,
+    "grade": 17.6,
+    "long_sentences": [
+     "ThreadlineHow to playPartial success: the instruments were off for some orbitsStep 5 of 5Read the first cause chain: it traces what happened back to one of your choices.Got itSkip the guideWhat this outcome means: 40% to 99% of the science was collected, with no rescue from your response.Best result on this seed: Partial.",
+     "You chose: Ride it out.60% Science collected GAME MODELOnly 60% of the science potential was collected: safe mode on orbits 6, 7, 8; Spectrometer damaged by radiation.64% Data returned GAME MODEL162 of 252 Mb that the instruments could have produced came home.70% Spacecraft health GAME MODELHealth 70: 3 orbits in safe mode, 1 instrument lost to radiation.100% Budget margin GAME MODEL$133M spent of a $175M budget.",
+     "SIMPLIFIED PHYSICSWhy it happenedYour choice: SpectrometerEffect: 12 W of powerEffect: the storm cuts the solar array to 50%Result: Safe mode on orbit 6 and 2 moreSpectrometer draws 12 W."
+    ],
+    "jargon_untooltipped": [
+     "GAME MODEL",
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "seed",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "Your choice:",
+     "Effect:",
+     "Effect:",
+     "Result:"
+    ],
+    "errors": []
+   },
+   {
+    "label": "rewind-design",
+    "t": 8.6,
+    "h1": "Design Bay",
+    "words": 660,
+    "read_s": 198,
+    "grade": 14.1,
+    "long_sentences": [
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.Switch off the Spectrometer Gives up 18 science points on each of the 3 storm orbits (54 in all).",
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.Enter safe mode early Gives up 42 science points on each of the 3 storm orbits (126 in all).",
+     "Forecast: safe mode on orbit 8, which costs more science.Instruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "251 kg of the 380 kg this launcher can l",
+     "Stays powered through all 14 orbits. 35%",
+     "Instruments make 18 Mb per orbit and the",
+     "+16% more than the mission needs"
+    ],
+    "errors": []
+   },
+   {
+    "label": "diff",
+    "t": 11.0,
+    "h1": "Compared with your last flight",
+    "words": 159,
+    "read_s": 48,
+    "grade": 24.7,
+    "long_sentences": [
+     "Only your decisions changed.What you changedBattery: 150 Wh to 300 WhFuel: 87 kg to 90 kgMore than one decision changed, so the cause of any difference is mixed.What happened differentlyOutcomePartial to Partial SameScience collected60% to 58% (-2 points) GAME MODELData returned64% to 64% (+0 points) GAME MODELSpacecraft health70% to 70% (+0 points) GAME MODELBudget margin100% to 100% (+0 points) GAME MODELProblems that went awaySafe mode on orbit 6Safe mode on orbit 7New problemsThermal infrared radiometer damaged by radiation on orbit 7Problems that stayedSolar storm on orbit 5Spectrometer damaged by radiation on orbit 5Safe mode on orbit 8Cost$133M to $136MGAME MODELWeight at launch251 kg to 260 kgGAME MODELFuel margin16% to 16%SIMPLIFIED PHYSICSUnverified placeholderPartial: 40% to 99% of the science was collected, with no rescue from your response.Change another decisionSee why this flight went this wayStart overCompared with your last flight screen."
+    ],
+    "jargon_untooltipped": [
+     "Wh",
+     "radiation",
+     "safe mode",
+     "seed"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   }
+  ],
+  "notes": []
+ },
+ {
+  "variant": "early-storm",
+  "width": 1280,
+  "screens": [
+   {
+    "label": "title",
+    "t": 0.6,
+    "h1": "Threadline",
+    "words": 91,
+    "read_s": 27,
+    "grade": 8.6,
+    "long_sentences": [
+     "You can rewind and change that one choice to see what happens.Read the mission brief.Build your spacecraft in the Design Bay.Launch, and see how it goes.Rewind, change one decision, and compare.About 10 minutes."
+    ],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief",
+    "t": 1.1,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 289,
+    "read_s": 87,
+    "grade": 13.2,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief-variant",
+    "t": 1.5,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 298,
+    "read_s": 89,
+    "grade": 12.7,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-first-sight",
+    "t": 2.2,
+    "h1": "Design Bay",
+    "words": 453,
+    "read_s": 136,
+    "grade": 20.4,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (0 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 8 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 6 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 12 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-built",
+    "t": 3.7,
+    "h1": "Design Bay",
+    "words": 492,
+    "read_s": 148,
+    "grade": 18.0,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 8 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 6 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 12 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "propellant",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "launch",
+    "t": 5.2,
+    "h1": "Launch: Medium launcher",
+    "words": 19,
+    "read_s": 6,
+    "grade": 7.4,
+    "long_sentences": [],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "storm-decision",
+    "t": 7.2,
+    "h1": "Mission Control",
+    "words": 334,
+    "read_s": 100,
+    "grade": 17.1,
+    "long_sentences": [
+     "ThreadlineHow to playMission ControlPaused before orbit 2: a solar storm is arriving.PauseSkip to the storm decisionSolar storm warning: orbit 2A solar storm reaches the Moon on orbit 2 and lasts 3 orbits.",
+     "GAME MODELRide it outCostsGives up no science while the storm lasts.RisksEach running instrument (Imaging camera, Spectrometer, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 101 W while the array makes about 100 W.",
+     "Forecast: safe mode on orbit 3 and 2 more, which costs more science.GAME MODELSIMPLIFIED PHYSICSChoose: Ride it outSwitch off the SpectrometerCostsGives up 18 science points on each of the 3 storm orbits (54 in all).RisksEach running instrument (Imaging camera, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 89 W while the array makes about 100 W."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "outcome",
+    "t": 9.0,
+    "h1": "Partial success: the instruments were off for some orbits",
+    "words": 460,
+    "read_s": 138,
+    "grade": 17.7,
+    "long_sentences": [
+     "ThreadlineHow to playPartial success: the instruments were off for some orbitsStep 5 of 5Read the first cause chain: it traces what happened back to one of your choices.Got itSkip the guideWhat this outcome means: 40% to 99% of the science was collected, with no rescue from your response.Best result on this seed: Partial.",
+     "You chose: Ride it out.57% Science collected GAME MODELOnly 57% of the science potential was collected: safe mode on orbits 3, 4, 5; Imaging camera damaged by radiation.50% Data returned GAME MODEL126 of 252 Mb that the instruments could have produced came home.70% Spacecraft health GAME MODELHealth 70: 3 orbits in safe mode, 1 instrument lost to radiation.100% Budget margin GAME MODEL$133M spent of a $175M budget.",
+     "SIMPLIFIED PHYSICSWhy it happenedYour choice: SpectrometerEffect: 12 W of powerEffect: the storm cuts the solar array to 50%Result: Safe mode on orbit 3 and 2 moreSpectrometer draws 12 W."
+    ],
+    "jargon_untooltipped": [
+     "GAME MODEL",
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "seed",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "Your choice:",
+     "Effect:",
+     "Effect:",
+     "Result:"
+    ],
+    "errors": []
+   },
+   {
+    "label": "rewind-design",
+    "t": 9.7,
+    "h1": "Design Bay",
+    "words": 660,
+    "read_s": 198,
+    "grade": 14.1,
+    "long_sentences": [
+     "Forecast: safe mode on orbit 3 and 2 more, which costs more science.Switch off the Spectrometer Gives up 18 science points on each of the 3 storm orbits (54 in all).",
+     "Forecast: safe mode on orbit 3 and 2 more, which costs more science.Enter safe mode early Gives up 42 science points on each of the 3 storm orbits (126 in all).",
+     "Forecast: safe mode on orbit 5, which costs more science.Instruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "diff",
+    "t": 12.2,
+    "h1": "Compared with your last flight",
+    "words": 160,
+    "read_s": 48,
+    "grade": 24.9,
+    "long_sentences": [
+     "Only your decisions changed.What you changedBattery: 150 Wh to 300 WhFuel: 87 kg to 90 kgMore than one decision changed, so the cause of any difference is mixed.What happened differentlyOutcomePartial to Partial SameScience collected57% to 51% (-6 points) GAME MODELData returned50% to 44% (-6 points) GAME MODELSpacecraft health70% to 70% (+0 points) GAME MODELBudget margin100% to 100% (+0 points) GAME MODELProblems that went awaySafe mode on orbit 3Safe mode on orbit 4New problemsThermal infrared radiometer damaged by radiation on orbit 4Problems that stayedSolar storm on orbit 2Imaging camera damaged by radiation on orbit 2Safe mode on orbit 5Cost$133M to $136MGAME MODELWeight at launch251 kg to 260 kgGAME MODELFuel margin16% to 16%SIMPLIFIED PHYSICSUnverified placeholderPartial: 40% to 99% of the science was collected, with no rescue from your response.Change another decisionSee why this flight went this wayStart overCompared with your last flight screen."
+    ],
+    "jargon_untooltipped": [
+     "Wh",
+     "radiation",
+     "safe mode",
+     "seed"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   }
+  ],
+  "notes": []
+ },
+ {
+  "variant": "early-storm",
+  "width": 820,
+  "screens": [
+   {
+    "label": "title",
+    "t": 0.6,
+    "h1": "Threadline",
+    "words": 91,
+    "read_s": 27,
+    "grade": 8.6,
+    "long_sentences": [
+     "You can rewind and change that one choice to see what happens.Read the mission brief.Build your spacecraft in the Design Bay.Launch, and see how it goes.Rewind, change one decision, and compare.About 10 minutes."
+    ],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief",
+    "t": 1.1,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 289,
+    "read_s": 87,
+    "grade": 13.2,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief-variant",
+    "t": 1.4,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 298,
+    "read_s": 89,
+    "grade": 12.7,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-first-sight",
+    "t": 2.1,
+    "h1": "Design Bay",
+    "words": 453,
+    "read_s": 136,
+    "grade": 20.4,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (0 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 8 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 6 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 12 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-built",
+    "t": 3.5,
+    "h1": "Design Bay",
+    "words": 492,
+    "read_s": 148,
+    "grade": 18.0,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 8 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 6 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 12 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "propellant",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "launch",
+    "t": 4.6,
+    "h1": "Launch: Medium launcher",
+    "words": 19,
+    "read_s": 6,
+    "grade": 7.4,
+    "long_sentences": [],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "storm-decision",
+    "t": 6.2,
+    "h1": "Mission Control",
+    "words": 334,
+    "read_s": 100,
+    "grade": 17.1,
+    "long_sentences": [
+     "ThreadlineHow to playMission ControlPaused before orbit 2: a solar storm is arriving.PauseSkip to the storm decisionSolar storm warning: orbit 2A solar storm reaches the Moon on orbit 2 and lasts 3 orbits.",
+     "GAME MODELRide it outCostsGives up no science while the storm lasts.RisksEach running instrument (Imaging camera, Spectrometer, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 101 W while the array makes about 100 W.",
+     "Forecast: safe mode on orbit 3 and 2 more, which costs more science.GAME MODELSIMPLIFIED PHYSICSChoose: Ride it outSwitch off the SpectrometerCostsGives up 18 science points on each of the 3 storm orbits (54 in all).RisksEach running instrument (Imaging camera, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 89 W while the array makes about 100 W."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "outcome",
+    "t": 7.8,
+    "h1": "Partial success: the instruments were off for some orbits",
+    "words": 460,
+    "read_s": 138,
+    "grade": 17.7,
+    "long_sentences": [
+     "ThreadlineHow to playPartial success: the instruments were off for some orbitsStep 5 of 5Read the first cause chain: it traces what happened back to one of your choices.Got itSkip the guideWhat this outcome means: 40% to 99% of the science was collected, with no rescue from your response.Best result on this seed: Partial.",
+     "You chose: Ride it out.57% Science collected GAME MODELOnly 57% of the science potential was collected: safe mode on orbits 3, 4, 5; Imaging camera damaged by radiation.50% Data returned GAME MODEL126 of 252 Mb that the instruments could have produced came home.70% Spacecraft health GAME MODELHealth 70: 3 orbits in safe mode, 1 instrument lost to radiation.100% Budget margin GAME MODEL$133M spent of a $175M budget.",
+     "SIMPLIFIED PHYSICSWhy it happenedYour choice: SpectrometerEffect: 12 W of powerEffect: the storm cuts the solar array to 50%Result: Safe mode on orbit 3 and 2 moreSpectrometer draws 12 W."
+    ],
+    "jargon_untooltipped": [
+     "GAME MODEL",
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "seed",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "Your choice:",
+     "Effect:",
+     "Effect:",
+     "Result:"
+    ],
+    "errors": []
+   },
+   {
+    "label": "rewind-design",
+    "t": 8.5,
+    "h1": "Design Bay",
+    "words": 660,
+    "read_s": 198,
+    "grade": 14.1,
+    "long_sentences": [
+     "Forecast: safe mode on orbit 3 and 2 more, which costs more science.Switch off the Spectrometer Gives up 18 science points on each of the 3 storm orbits (54 in all).",
+     "Forecast: safe mode on orbit 3 and 2 more, which costs more science.Enter safe mode early Gives up 42 science points on each of the 3 storm orbits (126 in all).",
+     "Forecast: safe mode on orbit 5, which costs more science.Instruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "diff",
+    "t": 11.1,
+    "h1": "Compared with your last flight",
+    "words": 160,
+    "read_s": 48,
+    "grade": 24.9,
+    "long_sentences": [
+     "Only your decisions changed.What you changedBattery: 150 Wh to 300 WhFuel: 87 kg to 90 kgMore than one decision changed, so the cause of any difference is mixed.What happened differentlyOutcomePartial to Partial SameScience collected57% to 51% (-6 points) GAME MODELData returned50% to 44% (-6 points) GAME MODELSpacecraft health70% to 70% (+0 points) GAME MODELBudget margin100% to 100% (+0 points) GAME MODELProblems that went awaySafe mode on orbit 3Safe mode on orbit 4New problemsThermal infrared radiometer damaged by radiation on orbit 4Problems that stayedSolar storm on orbit 2Imaging camera damaged by radiation on orbit 2Safe mode on orbit 5Cost$133M to $136MGAME MODELWeight at launch251 kg to 260 kgGAME MODELFuel margin16% to 16%SIMPLIFIED PHYSICSUnverified placeholderPartial: 40% to 99% of the science was collected, with no rescue from your response.Change another decisionSee why this flight went this wayStart overCompared with your last flight screen."
+    ],
+    "jargon_untooltipped": [
+     "Wh",
+     "radiation",
+     "safe mode",
+     "seed"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   }
+  ],
+  "notes": []
+ },
+ {
+  "variant": "early-storm",
+  "width": 390,
+  "screens": [
+   {
+    "label": "title",
+    "t": 0.6,
+    "h1": "Threadline",
+    "words": 91,
+    "read_s": 27,
+    "grade": 8.6,
+    "long_sentences": [
+     "You can rewind and change that one choice to see what happens.Read the mission brief.Build your spacecraft in the Design Bay.Launch, and see how it goes.Rewind, change one decision, and compare.About 10 minutes."
+    ],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief",
+    "t": 1.0,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 289,
+    "read_s": 87,
+    "grade": 13.2,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief-variant",
+    "t": 1.4,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 298,
+    "read_s": 89,
+    "grade": 12.7,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-first-sight",
+    "t": 2.1,
+    "h1": "Design Bay",
+    "words": 453,
+    "read_s": 136,
+    "grade": 20.4,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (0 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 8 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 6 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 12 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "230 kg of the 270 kg this launcher can l",
+     "Stays powered through all 14 orbits. 55%",
+     "Pick instruments to see how much data th",
+     "+35% more than the mission needs"
+    ],
+    "errors": []
+   },
+   {
+    "label": "design-built",
+    "t": 3.4,
+    "h1": "Design Bay",
+    "words": 492,
+    "read_s": 148,
+    "grade": 18.0,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 8 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 6 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 12 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "propellant",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "251 kg of the 380 kg this launcher can l",
+     "Stays powered through all 14 orbits. 35%",
+     "Instruments make 18 Mb per orbit and the",
+     "+16% more than the mission needs"
+    ],
+    "errors": []
+   },
+   {
+    "label": "launch",
+    "t": 4.5,
+    "h1": "Launch: Medium launcher",
+    "words": 19,
+    "read_s": 6,
+    "grade": 7.4,
+    "long_sentences": [],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "storm-decision",
+    "t": 6.0,
+    "h1": "Mission Control",
+    "words": 334,
+    "read_s": 100,
+    "grade": 17.1,
+    "long_sentences": [
+     "ThreadlineHow to playMission ControlPaused before orbit 2: a solar storm is arriving.PauseSkip to the storm decisionSolar storm warning: orbit 2A solar storm reaches the Moon on orbit 2 and lasts 3 orbits.",
+     "GAME MODELRide it outCostsGives up no science while the storm lasts.RisksEach running instrument (Imaging camera, Spectrometer, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 101 W while the array makes about 100 W.",
+     "Forecast: safe mode on orbit 3 and 2 more, which costs more science.GAME MODELSIMPLIFIED PHYSICSChoose: Ride it outSwitch off the SpectrometerCostsGives up 18 science points on each of the 3 storm orbits (54 in all).RisksEach running instrument (Imaging camera, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 89 W while the array makes about 100 W."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "outcome",
+    "t": 7.6,
+    "h1": "Partial success: the instruments were off for some orbits",
+    "words": 460,
+    "read_s": 138,
+    "grade": 17.7,
+    "long_sentences": [
+     "ThreadlineHow to playPartial success: the instruments were off for some orbitsStep 5 of 5Read the first cause chain: it traces what happened back to one of your choices.Got itSkip the guideWhat this outcome means: 40% to 99% of the science was collected, with no rescue from your response.Best result on this seed: Partial.",
+     "You chose: Ride it out.57% Science collected GAME MODELOnly 57% of the science potential was collected: safe mode on orbits 3, 4, 5; Imaging camera damaged by radiation.50% Data returned GAME MODEL126 of 252 Mb that the instruments could have produced came home.70% Spacecraft health GAME MODELHealth 70: 3 orbits in safe mode, 1 instrument lost to radiation.100% Budget margin GAME MODEL$133M spent of a $175M budget.",
+     "SIMPLIFIED PHYSICSWhy it happenedYour choice: SpectrometerEffect: 12 W of powerEffect: the storm cuts the solar array to 50%Result: Safe mode on orbit 3 and 2 moreSpectrometer draws 12 W."
+    ],
+    "jargon_untooltipped": [
+     "GAME MODEL",
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "seed",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "Your choice:",
+     "Effect:",
+     "Effect:",
+     "Result:"
+    ],
+    "errors": []
+   },
+   {
+    "label": "rewind-design",
+    "t": 8.3,
+    "h1": "Design Bay",
+    "words": 660,
+    "read_s": 198,
+    "grade": 14.1,
+    "long_sentences": [
+     "Forecast: safe mode on orbit 3 and 2 more, which costs more science.Switch off the Spectrometer Gives up 18 science points on each of the 3 storm orbits (54 in all).",
+     "Forecast: safe mode on orbit 3 and 2 more, which costs more science.Enter safe mode early Gives up 42 science points on each of the 3 storm orbits (126 in all).",
+     "Forecast: safe mode on orbit 5, which costs more science.Instruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "251 kg of the 380 kg this launcher can l",
+     "Stays powered through all 14 orbits. 35%",
+     "Instruments make 18 Mb per orbit and the",
+     "+16% more than the mission needs"
+    ],
+    "errors": []
+   },
+   {
+    "label": "diff",
+    "t": 10.8,
+    "h1": "Compared with your last flight",
+    "words": 160,
+    "read_s": 48,
+    "grade": 24.9,
+    "long_sentences": [
+     "Only your decisions changed.What you changedBattery: 150 Wh to 300 WhFuel: 87 kg to 90 kgMore than one decision changed, so the cause of any difference is mixed.What happened differentlyOutcomePartial to Partial SameScience collected57% to 51% (-6 points) GAME MODELData returned50% to 44% (-6 points) GAME MODELSpacecraft health70% to 70% (+0 points) GAME MODELBudget margin100% to 100% (+0 points) GAME MODELProblems that went awaySafe mode on orbit 3Safe mode on orbit 4New problemsThermal infrared radiometer damaged by radiation on orbit 4Problems that stayedSolar storm on orbit 2Imaging camera damaged by radiation on orbit 2Safe mode on orbit 5Cost$133M to $136MGAME MODELWeight at launch251 kg to 260 kgGAME MODELFuel margin16% to 16%SIMPLIFIED PHYSICSUnverified placeholderPartial: 40% to 99% of the science was collected, with no rescue from your response.Change another decisionSee why this flight went this wayStart overCompared with your last flight screen."
+    ],
+    "jargon_untooltipped": [
+     "Wh",
+     "radiation",
+     "safe mode",
+     "seed"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   }
+  ],
+  "notes": []
+ },
+ {
+  "variant": "tight-budget",
+  "width": 1280,
+  "screens": [
+   {
+    "label": "title",
+    "t": 0.6,
+    "h1": "Threadline",
+    "words": 91,
+    "read_s": 27,
+    "grade": 8.6,
+    "long_sentences": [
+     "You can rewind and change that one choice to see what happens.Read the mission brief.Build your spacecraft in the Design Bay.Launch, and see how it goes.Rewind, change one decision, and compare.About 10 minutes."
+    ],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief",
+    "t": 1.1,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 289,
+    "read_s": 87,
+    "grade": 13.2,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief-variant",
+    "t": 1.6,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 293,
+    "read_s": 88,
+    "grade": 12.7,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $149M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-first-sight",
+    "t": 2.3,
+    "h1": "Design Bay",
+    "words": 453,
+    "read_s": 136,
+    "grade": 20.4,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (0 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 8 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 6 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 12 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-built",
+    "t": 3.7,
+    "h1": "Design Bay",
+    "words": 492,
+    "read_s": 148,
+    "grade": 18.0,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 8 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 6 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 12 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "propellant",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "launch",
+    "t": 5.1,
+    "h1": "Launch: Medium launcher",
+    "words": 19,
+    "read_s": 6,
+    "grade": 7.4,
+    "long_sentences": [],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "storm-decision",
+    "t": 6.8,
+    "h1": "Mission Control",
+    "words": 328,
+    "read_s": 98,
+    "grade": 17.1,
+    "long_sentences": [
+     "ThreadlineHow to playMission ControlPaused before orbit 5: a solar storm is arriving.PauseSkip to the storm decisionSolar storm warning: orbit 5A solar storm reaches the Moon on orbit 5 and lasts 3 orbits.",
+     "GAME MODELRide it outCostsGives up no science while the storm lasts.RisksEach running instrument (Imaging camera, Spectrometer, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 101 W while the array makes about 100 W.",
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.GAME MODELSIMPLIFIED PHYSICSChoose: Ride it outSwitch off the SpectrometerCostsGives up 18 science points on each of the 3 storm orbits (54 in all).RisksEach running instrument (Imaging camera, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 89 W while the array makes about 100 W."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "outcome",
+    "t": 8.6,
+    "h1": "Partial success: the instruments were off for some orbits",
+    "words": 457,
+    "read_s": 137,
+    "grade": 17.6,
+    "long_sentences": [
+     "ThreadlineHow to playPartial success: the instruments were off for some orbitsStep 5 of 5Read the first cause chain: it traces what happened back to one of your choices.Got itSkip the guideWhat this outcome means: 40% to 99% of the science was collected, with no rescue from your response.Best result on this seed: Partial.",
+     "You chose: Ride it out.60% Science collected GAME MODELOnly 60% of the science potential was collected: safe mode on orbits 6, 7, 8; Spectrometer damaged by radiation.64% Data returned GAME MODEL162 of 252 Mb that the instruments could have produced came home.70% Spacecraft health GAME MODELHealth 70: 3 orbits in safe mode, 1 instrument lost to radiation.54% Budget margin GAME MODEL$133M spent of a $149M budget.",
+     "SIMPLIFIED PHYSICSWhy it happenedYour choice: SpectrometerEffect: 12 W of powerEffect: the storm cuts the solar array to 50%Result: Safe mode on orbit 6 and 2 moreSpectrometer draws 12 W."
+    ],
+    "jargon_untooltipped": [
+     "GAME MODEL",
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "seed",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "Your choice:",
+     "Effect:",
+     "Effect:",
+     "Result:"
+    ],
+    "errors": []
+   },
+   {
+    "label": "rewind-design",
+    "t": 9.3,
+    "h1": "Design Bay",
+    "words": 660,
+    "read_s": 198,
+    "grade": 14.1,
+    "long_sentences": [
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.Switch off the Spectrometer Gives up 18 science points on each of the 3 storm orbits (54 in all).",
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.Enter safe mode early Gives up 42 science points on each of the 3 storm orbits (126 in all).",
+     "Forecast: safe mode on orbit 8, which costs more science.Instruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "diff",
+    "t": 11.9,
+    "h1": "Compared with your last flight",
+    "words": 159,
+    "read_s": 48,
+    "grade": 24.7,
+    "long_sentences": [
+     "Only your decisions changed.What you changedBattery: 150 Wh to 300 WhFuel: 87 kg to 90 kgMore than one decision changed, so the cause of any difference is mixed.What happened differentlyOutcomePartial to Partial SameScience collected60% to 58% (-2 points) GAME MODELData returned64% to 64% (+0 points) GAME MODELSpacecraft health70% to 70% (+0 points) GAME MODELBudget margin54% to 44% (-10 points) GAME MODELProblems that went awaySafe mode on orbit 6Safe mode on orbit 7New problemsThermal infrared radiometer damaged by radiation on orbit 7Problems that stayedSolar storm on orbit 5Spectrometer damaged by radiation on orbit 5Safe mode on orbit 8Cost$133M to $136MGAME MODELWeight at launch251 kg to 260 kgGAME MODELFuel margin16% to 16%SIMPLIFIED PHYSICSUnverified placeholderPartial: 40% to 99% of the science was collected, with no rescue from your response.Change another decisionSee why this flight went this wayStart overCompared with your last flight screen."
+    ],
+    "jargon_untooltipped": [
+     "Wh",
+     "radiation",
+     "safe mode",
+     "seed"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   }
+  ],
+  "notes": []
+ },
+ {
+  "variant": "tight-budget",
+  "width": 820,
+  "screens": [
+   {
+    "label": "title",
+    "t": 0.6,
+    "h1": "Threadline",
+    "words": 91,
+    "read_s": 27,
+    "grade": 8.6,
+    "long_sentences": [
+     "You can rewind and change that one choice to see what happens.Read the mission brief.Build your spacecraft in the Design Bay.Launch, and see how it goes.Rewind, change one decision, and compare.About 10 minutes."
+    ],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief",
+    "t": 1.1,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 289,
+    "read_s": 87,
+    "grade": 13.2,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief-variant",
+    "t": 1.4,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 293,
+    "read_s": 88,
+    "grade": 12.7,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $149M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-first-sight",
+    "t": 2.2,
+    "h1": "Design Bay",
+    "words": 453,
+    "read_s": 136,
+    "grade": 20.4,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (0 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 8 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 6 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 12 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-built",
+    "t": 3.5,
+    "h1": "Design Bay",
+    "words": 492,
+    "read_s": 148,
+    "grade": 18.0,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 8 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 6 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 12 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "propellant",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "launch",
+    "t": 4.6,
+    "h1": "Launch: Medium launcher",
+    "words": 19,
+    "read_s": 6,
+    "grade": 7.4,
+    "long_sentences": [],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "storm-decision",
+    "t": 6.3,
+    "h1": "Mission Control",
+    "words": 328,
+    "read_s": 98,
+    "grade": 17.1,
+    "long_sentences": [
+     "ThreadlineHow to playMission ControlPaused before orbit 5: a solar storm is arriving.PauseSkip to the storm decisionSolar storm warning: orbit 5A solar storm reaches the Moon on orbit 5 and lasts 3 orbits.",
+     "GAME MODELRide it outCostsGives up no science while the storm lasts.RisksEach running instrument (Imaging camera, Spectrometer, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 101 W while the array makes about 100 W.",
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.GAME MODELSIMPLIFIED PHYSICSChoose: Ride it outSwitch off the SpectrometerCostsGives up 18 science points on each of the 3 storm orbits (54 in all).RisksEach running instrument (Imaging camera, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 89 W while the array makes about 100 W."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "outcome",
+    "t": 8.0,
+    "h1": "Partial success: the instruments were off for some orbits",
+    "words": 457,
+    "read_s": 137,
+    "grade": 17.6,
+    "long_sentences": [
+     "ThreadlineHow to playPartial success: the instruments were off for some orbitsStep 5 of 5Read the first cause chain: it traces what happened back to one of your choices.Got itSkip the guideWhat this outcome means: 40% to 99% of the science was collected, with no rescue from your response.Best result on this seed: Partial.",
+     "You chose: Ride it out.60% Science collected GAME MODELOnly 60% of the science potential was collected: safe mode on orbits 6, 7, 8; Spectrometer damaged by radiation.64% Data returned GAME MODEL162 of 252 Mb that the instruments could have produced came home.70% Spacecraft health GAME MODELHealth 70: 3 orbits in safe mode, 1 instrument lost to radiation.54% Budget margin GAME MODEL$133M spent of a $149M budget.",
+     "SIMPLIFIED PHYSICSWhy it happenedYour choice: SpectrometerEffect: 12 W of powerEffect: the storm cuts the solar array to 50%Result: Safe mode on orbit 6 and 2 moreSpectrometer draws 12 W."
+    ],
+    "jargon_untooltipped": [
+     "GAME MODEL",
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "seed",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "Your choice:",
+     "Effect:",
+     "Effect:",
+     "Result:"
+    ],
+    "errors": []
+   },
+   {
+    "label": "rewind-design",
+    "t": 8.6,
+    "h1": "Design Bay",
+    "words": 660,
+    "read_s": 198,
+    "grade": 14.1,
+    "long_sentences": [
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.Switch off the Spectrometer Gives up 18 science points on each of the 3 storm orbits (54 in all).",
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.Enter safe mode early Gives up 42 science points on each of the 3 storm orbits (126 in all).",
+     "Forecast: safe mode on orbit 8, which costs more science.Instruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "diff",
+    "t": 11.3,
+    "h1": "Compared with your last flight",
+    "words": 159,
+    "read_s": 48,
+    "grade": 24.7,
+    "long_sentences": [
+     "Only your decisions changed.What you changedBattery: 150 Wh to 300 WhFuel: 87 kg to 90 kgMore than one decision changed, so the cause of any difference is mixed.What happened differentlyOutcomePartial to Partial SameScience collected60% to 58% (-2 points) GAME MODELData returned64% to 64% (+0 points) GAME MODELSpacecraft health70% to 70% (+0 points) GAME MODELBudget margin54% to 44% (-10 points) GAME MODELProblems that went awaySafe mode on orbit 6Safe mode on orbit 7New problemsThermal infrared radiometer damaged by radiation on orbit 7Problems that stayedSolar storm on orbit 5Spectrometer damaged by radiation on orbit 5Safe mode on orbit 8Cost$133M to $136MGAME MODELWeight at launch251 kg to 260 kgGAME MODELFuel margin16% to 16%SIMPLIFIED PHYSICSUnverified placeholderPartial: 40% to 99% of the science was collected, with no rescue from your response.Change another decisionSee why this flight went this wayStart overCompared with your last flight screen."
+    ],
+    "jargon_untooltipped": [
+     "Wh",
+     "radiation",
+     "safe mode",
+     "seed"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   }
+  ],
+  "notes": []
+ },
+ {
+  "variant": "tight-budget",
+  "width": 390,
+  "screens": [
+   {
+    "label": "title",
+    "t": 0.6,
+    "h1": "Threadline",
+    "words": 91,
+    "read_s": 27,
+    "grade": 8.6,
+    "long_sentences": [
+     "You can rewind and change that one choice to see what happens.Read the mission brief.Build your spacecraft in the Design Bay.Launch, and see how it goes.Rewind, change one decision, and compare.About 10 minutes."
+    ],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief",
+    "t": 1.0,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 289,
+    "read_s": 87,
+    "grade": 13.2,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief-variant",
+    "t": 1.4,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 293,
+    "read_s": 88,
+    "grade": 12.7,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $149M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-first-sight",
+    "t": 2.1,
+    "h1": "Design Bay",
+    "words": 453,
+    "read_s": 136,
+    "grade": 20.4,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (0 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 8 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 6 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 12 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "230 kg of the 270 kg this launcher can l",
+     "Stays powered through all 14 orbits. 55%",
+     "Pick instruments to see how much data th",
+     "+35% more than the mission needs"
+    ],
+    "errors": []
+   },
+   {
+    "label": "design-built",
+    "t": 3.4,
+    "h1": "Design Bay",
+    "words": 492,
+    "read_s": 148,
+    "grade": 18.0,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 8 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 6 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 12 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "propellant",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "251 kg of the 380 kg this launcher can l",
+     "Stays powered through all 14 orbits. 35%",
+     "Instruments make 18 Mb per orbit and the",
+     "+16% more than the mission needs"
+    ],
+    "errors": []
+   },
+   {
+    "label": "launch",
+    "t": 4.4,
+    "h1": "Launch: Medium launcher",
+    "words": 19,
+    "read_s": 6,
+    "grade": 7.4,
+    "long_sentences": [],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "storm-decision",
+    "t": 5.9,
+    "h1": "Mission Control",
+    "words": 328,
+    "read_s": 98,
+    "grade": 17.1,
+    "long_sentences": [
+     "ThreadlineHow to playMission ControlPaused before orbit 5: a solar storm is arriving.PauseSkip to the storm decisionSolar storm warning: orbit 5A solar storm reaches the Moon on orbit 5 and lasts 3 orbits.",
+     "GAME MODELRide it outCostsGives up no science while the storm lasts.RisksEach running instrument (Imaging camera, Spectrometer, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 101 W while the array makes about 100 W.",
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.GAME MODELSIMPLIFIED PHYSICSChoose: Ride it outSwitch off the SpectrometerCostsGives up 18 science points on each of the 3 storm orbits (54 in all).RisksEach running instrument (Imaging camera, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 89 W while the array makes about 100 W."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "outcome",
+    "t": 7.6,
+    "h1": "Partial success: the instruments were off for some orbits",
+    "words": 457,
+    "read_s": 137,
+    "grade": 17.6,
+    "long_sentences": [
+     "ThreadlineHow to playPartial success: the instruments were off for some orbitsStep 5 of 5Read the first cause chain: it traces what happened back to one of your choices.Got itSkip the guideWhat this outcome means: 40% to 99% of the science was collected, with no rescue from your response.Best result on this seed: Partial.",
+     "You chose: Ride it out.60% Science collected GAME MODELOnly 60% of the science potential was collected: safe mode on orbits 6, 7, 8; Spectrometer damaged by radiation.64% Data returned GAME MODEL162 of 252 Mb that the instruments could have produced came home.70% Spacecraft health GAME MODELHealth 70: 3 orbits in safe mode, 1 instrument lost to radiation.54% Budget margin GAME MODEL$133M spent of a $149M budget.",
+     "SIMPLIFIED PHYSICSWhy it happenedYour choice: SpectrometerEffect: 12 W of powerEffect: the storm cuts the solar array to 50%Result: Safe mode on orbit 6 and 2 moreSpectrometer draws 12 W."
+    ],
+    "jargon_untooltipped": [
+     "GAME MODEL",
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "seed",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "Your choice:",
+     "Effect:",
+     "Effect:",
+     "Result:"
+    ],
+    "errors": []
+   },
+   {
+    "label": "rewind-design",
+    "t": 8.3,
+    "h1": "Design Bay",
+    "words": 660,
+    "read_s": 198,
+    "grade": 14.1,
+    "long_sentences": [
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.Switch off the Spectrometer Gives up 18 science points on each of the 3 storm orbits (54 in all).",
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.Enter safe mode early Gives up 42 science points on each of the 3 storm orbits (126 in all).",
+     "Forecast: safe mode on orbit 8, which costs more science.Instruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "251 kg of the 380 kg this launcher can l",
+     "Stays powered through all 14 orbits. 35%",
+     "Instruments make 18 Mb per orbit and the",
+     "+16% more than the mission needs"
+    ],
+    "errors": []
+   },
+   {
+    "label": "diff",
+    "t": 10.9,
+    "h1": "Compared with your last flight",
+    "words": 159,
+    "read_s": 48,
+    "grade": 24.7,
+    "long_sentences": [
+     "Only your decisions changed.What you changedBattery: 150 Wh to 300 WhFuel: 87 kg to 90 kgMore than one decision changed, so the cause of any difference is mixed.What happened differentlyOutcomePartial to Partial SameScience collected60% to 58% (-2 points) GAME MODELData returned64% to 64% (+0 points) GAME MODELSpacecraft health70% to 70% (+0 points) GAME MODELBudget margin54% to 44% (-10 points) GAME MODELProblems that went awaySafe mode on orbit 6Safe mode on orbit 7New problemsThermal infrared radiometer damaged by radiation on orbit 7Problems that stayedSolar storm on orbit 5Spectrometer damaged by radiation on orbit 5Safe mode on orbit 8Cost$133M to $136MGAME MODELWeight at launch251 kg to 260 kgGAME MODELFuel margin16% to 16%SIMPLIFIED PHYSICSUnverified placeholderPartial: 40% to 99% of the science was collected, with no rescue from your response.Change another decisionSee why this flight went this wayStart overCompared with your last flight screen."
+    ],
+    "jargon_untooltipped": [
+     "Wh",
+     "radiation",
+     "safe mode",
+     "seed"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   }
+  ],
+  "notes": []
+ },
+ {
+  "variant": "data-rich",
+  "width": 1280,
+  "screens": [
+   {
+    "label": "title",
+    "t": 0.6,
+    "h1": "Threadline",
+    "words": 91,
+    "read_s": 27,
+    "grade": 8.6,
+    "long_sentences": [
+     "You can rewind and change that one choice to see what happens.Read the mission brief.Build your spacecraft in the Design Bay.Launch, and see how it goes.Rewind, change one decision, and compare.About 10 minutes."
+    ],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief",
+    "t": 1.1,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 289,
+    "read_s": 87,
+    "grade": 13.2,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief-variant",
+    "t": 1.5,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 293,
+    "read_s": 88,
+    "grade": 12.7,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-first-sight",
+    "t": 2.2,
+    "h1": "Design Bay",
+    "words": 453,
+    "read_s": 136,
+    "grade": 20.4,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (0 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 10 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 8 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 16 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-built",
+    "t": 3.6,
+    "h1": "Design Bay",
+    "words": 499,
+    "read_s": 150,
+    "grade": 18.2,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 10 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 8 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 16 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "propellant",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "launch",
+    "t": 5.0,
+    "h1": "Launch: Medium launcher",
+    "words": 19,
+    "read_s": 6,
+    "grade": 7.4,
+    "long_sentences": [],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "storm-decision",
+    "t": 6.6,
+    "h1": "Mission Control",
+    "words": 328,
+    "read_s": 98,
+    "grade": 17.1,
+    "long_sentences": [
+     "ThreadlineHow to playMission ControlPaused before orbit 5: a solar storm is arriving.PauseSkip to the storm decisionSolar storm warning: orbit 5A solar storm reaches the Moon on orbit 5 and lasts 3 orbits.",
+     "GAME MODELRide it outCostsGives up no science while the storm lasts.RisksEach running instrument (Imaging camera, Spectrometer, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 101 W while the array makes about 100 W.",
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.GAME MODELSIMPLIFIED PHYSICSChoose: Ride it outSwitch off the SpectrometerCostsGives up 18 science points on each of the 3 storm orbits (54 in all).RisksEach running instrument (Imaging camera, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 89 W while the array makes about 100 W."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "outcome",
+    "t": 8.4,
+    "h1": "Partial success: the instruments were off for some orbits",
+    "words": 457,
+    "read_s": 137,
+    "grade": 17.6,
+    "long_sentences": [
+     "ThreadlineHow to playPartial success: the instruments were off for some orbitsStep 5 of 5Read the first cause chain: it traces what happened back to one of your choices.Got itSkip the guideWhat this outcome means: 40% to 99% of the science was collected, with no rescue from your response.Best result on this seed: Partial.",
+     "You chose: Ride it out.60% Science collected GAME MODELOnly 60% of the science potential was collected: safe mode on orbits 6, 7, 8; Spectrometer damaged by radiation.60% Data returned GAME MODEL196 of 328 Mb that the instruments could have produced came home.70% Spacecraft health GAME MODELHealth 70: 3 orbits in safe mode, 1 instrument lost to radiation.100% Budget margin GAME MODEL$133M spent of a $175M budget.",
+     "SIMPLIFIED PHYSICSWhy it happenedYour choice: SpectrometerEffect: 12 W of powerEffect: the storm cuts the solar array to 50%Result: Safe mode on orbit 6 and 2 moreSpectrometer draws 12 W."
+    ],
+    "jargon_untooltipped": [
+     "GAME MODEL",
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "seed",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "Your choice:",
+     "Effect:",
+     "Effect:",
+     "Result:"
+    ],
+    "errors": []
+   },
+   {
+    "label": "rewind-design",
+    "t": 9.1,
+    "h1": "Design Bay",
+    "words": 667,
+    "read_s": 200,
+    "grade": 14.3,
+    "long_sentences": [
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.Switch off the Spectrometer Gives up 18 science points on each of the 3 storm orbits (54 in all).",
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.Enter safe mode early Gives up 42 science points on each of the 3 storm orbits (126 in all).",
+     "Forecast: safe mode on orbit 8, which costs more science.Instruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "diff",
+    "t": 11.7,
+    "h1": "Compared with your last flight",
+    "words": 159,
+    "read_s": 48,
+    "grade": 24.7,
+    "long_sentences": [
+     "Only your decisions changed.What you changedBattery: 150 Wh to 300 WhFuel: 87 kg to 90 kgMore than one decision changed, so the cause of any difference is mixed.What happened differentlyOutcomePartial to Partial SameScience collected60% to 58% (-2 points) GAME MODELData returned60% to 60% (+0 points) GAME MODELSpacecraft health70% to 70% (+0 points) GAME MODELBudget margin100% to 100% (+0 points) GAME MODELProblems that went awaySafe mode on orbit 6Safe mode on orbit 7New problemsThermal infrared radiometer damaged by radiation on orbit 7Problems that stayedSolar storm on orbit 5Spectrometer damaged by radiation on orbit 5Safe mode on orbit 8Cost$133M to $136MGAME MODELWeight at launch251 kg to 260 kgGAME MODELFuel margin16% to 16%SIMPLIFIED PHYSICSUnverified placeholderPartial: 40% to 99% of the science was collected, with no rescue from your response.Change another decisionSee why this flight went this wayStart overCompared with your last flight screen."
+    ],
+    "jargon_untooltipped": [
+     "Wh",
+     "radiation",
+     "safe mode",
+     "seed"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   }
+  ],
+  "notes": []
+ },
+ {
+  "variant": "data-rich",
+  "width": 820,
+  "screens": [
+   {
+    "label": "title",
+    "t": 0.6,
+    "h1": "Threadline",
+    "words": 91,
+    "read_s": 27,
+    "grade": 8.6,
+    "long_sentences": [
+     "You can rewind and change that one choice to see what happens.Read the mission brief.Build your spacecraft in the Design Bay.Launch, and see how it goes.Rewind, change one decision, and compare.About 10 minutes."
+    ],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief",
+    "t": 1.1,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 289,
+    "read_s": 87,
+    "grade": 13.2,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief-variant",
+    "t": 1.4,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 293,
+    "read_s": 88,
+    "grade": 12.7,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-first-sight",
+    "t": 2.1,
+    "h1": "Design Bay",
+    "words": 453,
+    "read_s": 136,
+    "grade": 20.4,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (0 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 10 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 8 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 16 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-built",
+    "t": 3.5,
+    "h1": "Design Bay",
+    "words": 499,
+    "read_s": 150,
+    "grade": 18.2,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 10 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 8 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 16 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "propellant",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "launch",
+    "t": 4.8,
+    "h1": "Launch: Medium launcher",
+    "words": 19,
+    "read_s": 6,
+    "grade": 7.4,
+    "long_sentences": [],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "storm-decision",
+    "t": 6.3,
+    "h1": "Mission Control",
+    "words": 328,
+    "read_s": 98,
+    "grade": 17.1,
+    "long_sentences": [
+     "ThreadlineHow to playMission ControlPaused before orbit 5: a solar storm is arriving.PauseSkip to the storm decisionSolar storm warning: orbit 5A solar storm reaches the Moon on orbit 5 and lasts 3 orbits.",
+     "GAME MODELRide it outCostsGives up no science while the storm lasts.RisksEach running instrument (Imaging camera, Spectrometer, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 101 W while the array makes about 100 W.",
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.GAME MODELSIMPLIFIED PHYSICSChoose: Ride it outSwitch off the SpectrometerCostsGives up 18 science points on each of the 3 storm orbits (54 in all).RisksEach running instrument (Imaging camera, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 89 W while the array makes about 100 W."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "outcome",
+    "t": 8.1,
+    "h1": "Partial success: the instruments were off for some orbits",
+    "words": 457,
+    "read_s": 137,
+    "grade": 17.6,
+    "long_sentences": [
+     "ThreadlineHow to playPartial success: the instruments were off for some orbitsStep 5 of 5Read the first cause chain: it traces what happened back to one of your choices.Got itSkip the guideWhat this outcome means: 40% to 99% of the science was collected, with no rescue from your response.Best result on this seed: Partial.",
+     "You chose: Ride it out.60% Science collected GAME MODELOnly 60% of the science potential was collected: safe mode on orbits 6, 7, 8; Spectrometer damaged by radiation.60% Data returned GAME MODEL196 of 328 Mb that the instruments could have produced came home.70% Spacecraft health GAME MODELHealth 70: 3 orbits in safe mode, 1 instrument lost to radiation.100% Budget margin GAME MODEL$133M spent of a $175M budget.",
+     "SIMPLIFIED PHYSICSWhy it happenedYour choice: SpectrometerEffect: 12 W of powerEffect: the storm cuts the solar array to 50%Result: Safe mode on orbit 6 and 2 moreSpectrometer draws 12 W."
+    ],
+    "jargon_untooltipped": [
+     "GAME MODEL",
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "seed",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "Your choice:",
+     "Effect:",
+     "Effect:",
+     "Result:"
+    ],
+    "errors": []
+   },
+   {
+    "label": "rewind-design",
+    "t": 8.8,
+    "h1": "Design Bay",
+    "words": 667,
+    "read_s": 200,
+    "grade": 14.3,
+    "long_sentences": [
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.Switch off the Spectrometer Gives up 18 science points on each of the 3 storm orbits (54 in all).",
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.Enter safe mode early Gives up 42 science points on each of the 3 storm orbits (126 in all).",
+     "Forecast: safe mode on orbit 8, which costs more science.Instruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "diff",
+    "t": 11.4,
+    "h1": "Compared with your last flight",
+    "words": 159,
+    "read_s": 48,
+    "grade": 24.7,
+    "long_sentences": [
+     "Only your decisions changed.What you changedBattery: 150 Wh to 300 WhFuel: 87 kg to 90 kgMore than one decision changed, so the cause of any difference is mixed.What happened differentlyOutcomePartial to Partial SameScience collected60% to 58% (-2 points) GAME MODELData returned60% to 60% (+0 points) GAME MODELSpacecraft health70% to 70% (+0 points) GAME MODELBudget margin100% to 100% (+0 points) GAME MODELProblems that went awaySafe mode on orbit 6Safe mode on orbit 7New problemsThermal infrared radiometer damaged by radiation on orbit 7Problems that stayedSolar storm on orbit 5Spectrometer damaged by radiation on orbit 5Safe mode on orbit 8Cost$133M to $136MGAME MODELWeight at launch251 kg to 260 kgGAME MODELFuel margin16% to 16%SIMPLIFIED PHYSICSUnverified placeholderPartial: 40% to 99% of the science was collected, with no rescue from your response.Change another decisionSee why this flight went this wayStart overCompared with your last flight screen."
+    ],
+    "jargon_untooltipped": [
+     "Wh",
+     "radiation",
+     "safe mode",
+     "seed"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   }
+  ],
+  "notes": []
+ },
+ {
+  "variant": "data-rich",
+  "width": 390,
+  "screens": [
+   {
+    "label": "title",
+    "t": 0.6,
+    "h1": "Threadline",
+    "words": 91,
+    "read_s": 27,
+    "grade": 8.6,
+    "long_sentences": [
+     "You can rewind and change that one choice to see what happens.Read the mission brief.Build your spacecraft in the Design Bay.Launch, and see how it goes.Rewind, change one decision, and compare.About 10 minutes."
+    ],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief",
+    "t": 1.0,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 289,
+    "read_s": 87,
+    "grade": 13.2,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "brief-variant",
+    "t": 1.4,
+    "h1": "Mission brief: map the Moon from orbit",
+    "words": 293,
+    "read_s": 88,
+    "grade": 12.7,
+    "long_sentences": [
+     "ThreadlineHow to playMission brief: map the Moon from orbitFlight Director Imani Reyes: \"Your spacecraft must circle the Moon for 14 orbits (about 27 hours) and collect as much science as it can.",
+     "Then we fly it.\"Choose your missionStandard missionThe mission as briefed: the storm can arrive between orbit 4 and orbit 9.Changes: Nothing changes GAME MODELEarly stormThe storm comes early, so you must plan for it before you have seen how your spacecraft behaves.Changes: Storm orbit: 4 to 9, becomes 2 to 4 GAME MODELTight budgetFifteen percent less money, so every instrument and every battery has to earn its place.Changes: Budget: $175M, becomes $149M GAME MODELData-rich targetA fascinating site: every instrument collects thirty percent more data, which fills your storage faster.Changes: Data per instrument: +30% GAME MODELYour constraintsBudget: $175M GAME MODELExactly 3 instruments, chosen from 6.One launcher.",
+     "Bigger ones lift more and fail less, but cost more.Enough fuel to reach the Moon and settle into orbit.What makes this hardThe Moon is about 1,737 km in radius NASA DATA."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "NASA DATA",
+     "SIMPLIFIED PHYSICS",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "design-first-sight",
+    "t": 2.1,
+    "h1": "Design Bay",
+    "words": 453,
+    "read_s": 136,
+    "grade": 20.4,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (0 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 10 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 8 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 16 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "230 kg of the 270 kg this launcher can l",
+     "Stays powered through all 14 orbits. 55%",
+     "Pick instruments to see how much data th",
+     "+35% more than the mission needs"
+    ],
+    "errors": []
+   },
+   {
+    "label": "design-built",
+    "t": 3.4,
+    "h1": "Design Bay",
+    "words": 499,
+    "read_s": 150,
+    "grade": 18.2,
+    "long_sentences": [
+     "The results update as you go, and threads show which results each choice moved.Rewind: change a decisionStorm responseRide it outSwitch off the biggest power userEnter safe mode earlyInstruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface.",
+     "Cheap and light, but it fills storage quickly.9 kg, $18M, 10 Mb of data per orbitGAME MODELSpectrometerSelectedBenefit+18 science per orbitCost12 W of powerUseful for analyzing the composition of the target.7 kg, $24M, 8 Mb of data per orbitGAME MODELLaser altimeterSelectedBenefit+12 science per orbitCost18 W of powerMeasures surface height to build terrain maps.",
+     "The biggest science return, and the biggest power bill.22 kg, $50M, 16 Mb of data per orbitGAME MODELLauncherThe must be able to lift your spacecraft, fuel included.Light launcherSelectedBenefitLifts up to 270 kgCost$25MLaunch riskhigherCheapest ride, but it can only lift a small spacecraft.Succeeds about 90 in 100 launchesGAME MODELMedium launcherSelectedBenefitLifts up to 380 kgCost$45MLaunch riskmediumA balanced choice: room for heavier instruments and more fuel.Succeeds about 94 in 100 launchesGAME MODELHeavy launcherSelectedBenefitLifts up to 520 kgCost$80MLaunch risklowestLifts the most and fails least, but takes a big bite of the budget.Succeeds about 97 in 100 launchesGAME MODELPower and fuelBattery150 WhA bigger battery gets through eclipses."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "propellant",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "251 kg of the 380 kg this launcher can l",
+     "Stays powered through all 14 orbits. 35%",
+     "Instruments make 23 Mb per orbit but the",
+     "+16% more than the mission needs"
+    ],
+    "errors": []
+   },
+   {
+    "label": "launch",
+    "t": 4.5,
+    "h1": "Launch: Medium launcher",
+    "words": 19,
+    "read_s": 6,
+    "grade": 7.4,
+    "long_sentences": [],
+    "jargon_untooltipped": [],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "storm-decision",
+    "t": 6.2,
+    "h1": "Mission Control",
+    "words": 328,
+    "read_s": 98,
+    "grade": 17.1,
+    "long_sentences": [
+     "ThreadlineHow to playMission ControlPaused before orbit 5: a solar storm is arriving.PauseSkip to the storm decisionSolar storm warning: orbit 5A solar storm reaches the Moon on orbit 5 and lasts 3 orbits.",
+     "GAME MODELRide it outCostsGives up no science while the storm lasts.RisksEach running instrument (Imaging camera, Spectrometer, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 101 W while the array makes about 100 W.",
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.GAME MODELSIMPLIFIED PHYSICSChoose: Ride it outSwitch off the SpectrometerCostsGives up 18 science points on each of the 3 storm orbits (54 in all).RisksEach running instrument (Imaging camera, Thermal infrared radiometer) has a 15% chance of permanent radiation damage on each storm orbit.PowerUses 89 W while the array makes about 100 W."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   },
+   {
+    "label": "outcome",
+    "t": 7.9,
+    "h1": "Partial success: the instruments were off for some orbits",
+    "words": 457,
+    "read_s": 137,
+    "grade": 17.6,
+    "long_sentences": [
+     "ThreadlineHow to playPartial success: the instruments were off for some orbitsStep 5 of 5Read the first cause chain: it traces what happened back to one of your choices.Got itSkip the guideWhat this outcome means: 40% to 99% of the science was collected, with no rescue from your response.Best result on this seed: Partial.",
+     "You chose: Ride it out.60% Science collected GAME MODELOnly 60% of the science potential was collected: safe mode on orbits 6, 7, 8; Spectrometer damaged by radiation.60% Data returned GAME MODEL196 of 328 Mb that the instruments could have produced came home.70% Spacecraft health GAME MODELHealth 70: 3 orbits in safe mode, 1 instrument lost to radiation.100% Budget margin GAME MODEL$133M spent of a $175M budget.",
+     "SIMPLIFIED PHYSICSWhy it happenedYour choice: SpectrometerEffect: 12 W of powerEffect: the storm cuts the solar array to 50%Result: Safe mode on orbit 6 and 2 moreSpectrometer draws 12 W."
+    ],
+    "jargon_untooltipped": [
+     "GAME MODEL",
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "seed",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "Your choice:",
+     "Effect:",
+     "Effect:",
+     "Result:"
+    ],
+    "errors": []
+   },
+   {
+    "label": "rewind-design",
+    "t": 8.6,
+    "h1": "Design Bay",
+    "words": 667,
+    "read_s": 200,
+    "grade": 14.3,
+    "long_sentences": [
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.Switch off the Spectrometer Gives up 18 science points on each of the 3 storm orbits (54 in all).",
+     "Forecast: safe mode on orbit 6 and 2 more, which costs more science.Enter safe mode early Gives up 42 science points on each of the 3 storm orbits (126 in all).",
+     "Forecast: safe mode on orbit 8, which costs more science.Instruments: pick 3 of 6 (3 of 3 chosen)Each instrument collects science, but uses power, weight and money.Imaging cameraSelectedBenefit+14 science per orbitCost10 W of powerTakes pictures of the surface."
+    ],
+    "jargon_untooltipped": [
+     "Mb",
+     "eclipse",
+     "radiation",
+     "safe mode",
+     "solar array"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [
+     "251 kg of the 380 kg this launcher can l",
+     "Stays powered through all 14 orbits. 35%",
+     "Instruments make 23 Mb per orbit but the",
+     "+16% more than the mission needs"
+    ],
+    "errors": []
+   },
+   {
+    "label": "diff",
+    "t": 11.1,
+    "h1": "Compared with your last flight",
+    "words": 159,
+    "read_s": 48,
+    "grade": 24.7,
+    "long_sentences": [
+     "Only your decisions changed.What you changedBattery: 150 Wh to 300 WhFuel: 87 kg to 90 kgMore than one decision changed, so the cause of any difference is mixed.What happened differentlyOutcomePartial to Partial SameScience collected60% to 58% (-2 points) GAME MODELData returned60% to 60% (+0 points) GAME MODELSpacecraft health70% to 70% (+0 points) GAME MODELBudget margin100% to 100% (+0 points) GAME MODELProblems that went awaySafe mode on orbit 6Safe mode on orbit 7New problemsThermal infrared radiometer damaged by radiation on orbit 7Problems that stayedSolar storm on orbit 5Spectrometer damaged by radiation on orbit 5Safe mode on orbit 8Cost$133M to $136MGAME MODELWeight at launch251 kg to 260 kgGAME MODELFuel margin16% to 16%SIMPLIFIED PHYSICSUnverified placeholderPartial: 40% to 99% of the science was collected, with no rescue from your response.Change another decisionSee why this flight went this wayStart overCompared with your last flight screen."
+    ],
+    "jargon_untooltipped": [
+     "Wh",
+     "radiation",
+     "safe mode",
+     "seed"
+    ],
+    "overflow_px": 0,
+    "tap_small": [],
+    "clipped": [],
+    "errors": []
+   }
+  ],
+  "notes": []
+ }
+]

@@ -11,8 +11,6 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 jobs:
   check:
@@ -29,6 +27,10 @@ jobs:
   build:
     needs: check
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -36,6 +38,7 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      # The base path is the repository name: https://<user>.github.io/<repo>/
       - run: npm run typecheck && npx vite build --base=/${{ github.event.repository.name }}/ && node scripts/postbuild.mjs
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
